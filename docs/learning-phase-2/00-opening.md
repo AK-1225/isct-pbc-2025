@@ -44,10 +44,12 @@ Sanhe Kim
 - Available for questions throughout
 
 ### Support Team (3 Supporters)
-Masaaki Sano
-Ryo Imahashi
-Junichiro Ueno
+**Supporters**
+- Masaaki Sano
+- Ryo Imahashi
+- Junichiro Ueno
 
+**What we do**
 - Circulate around the room throughout
 - Help with individual problems
 - Provide one-on-one guidance
